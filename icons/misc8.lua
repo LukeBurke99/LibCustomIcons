@@ -222,3 +222,5 @@ s["@ScarGard12"] = "LibCustomIcons/icons/misc8/ScarGard12.dds"
 a["@Banira'Ai"] = {"LibCustomIcons/icons/misc8/BaniraAi_anim.dds", 4, 1, 10}
 s["@HondaForLife"] = "LibCustomIcons/icons/misc8/HondaForLife.dds"
 a["@HondaForLife"] = {"LibCustomIcons/icons/misc8/HondaForLife_anim.dds", 8, 4, 16}
+s["@Dr_Breuer"] = "LibCustomIcons/icons/misc8/Dr_Breuer.dds"
+a["@Dr_Breuer"] = {"LibCustomIcons/icons/misc8/Dr_Breuer_anim.dds", 8, 4, 16}
